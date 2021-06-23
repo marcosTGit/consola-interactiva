@@ -1,0 +1,17 @@
+{
+  "name": "consola-interactiva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "Toledo Marcos",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.1.1",
+    "uuid": "^8.3.2"
+  }
+}
